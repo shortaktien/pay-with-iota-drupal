@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function iota_pay_donate_theme() {
+  return [
+    'iota_donate' => [
+      'variables' => [
+        'data' => [],
+      ],
+    ],
+    'iota_pay' => [
+      'variables' => [
+        'data' => [],
+      ],
+    ],
+  ];
+}
+
+
+

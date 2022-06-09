@@ -1,0 +1,6 @@
+iota_pay_donate.admin_settings_form:  
+  title: 'IOTA Pay'  
+  route_name: iota_pay_donate.admin_settings_form  
+  description: 'Configure Your IOTA Pay Details'  
+  parent: system.admin_config_system  
+  weight: 99 

@@ -1,0 +1,5 @@
+name: IOTA Pay & Donate 
+type: module
+description: 'Create a IOTA Pay and Donate button'
+core_version_requirement: ^8 || ^9
+package: Custom

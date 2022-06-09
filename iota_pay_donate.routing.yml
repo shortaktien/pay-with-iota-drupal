@@ -1,0 +1,9 @@
+iota_pay_donate.admin_settings_form:  
+  path: '/admin/config/iota_pay_donate/adminsettings'  
+  defaults:  
+    _form: '\Drupal\iota_pay_donate\Form\ConfigForm'  
+    _title: 'IOTA Pay & Donate Settings'  
+  requirements:  
+    _permission: 'access administration pages'  
+  options:  
+    _admin_route: TRUE 
